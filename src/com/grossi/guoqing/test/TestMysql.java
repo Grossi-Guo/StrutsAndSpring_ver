@@ -12,7 +12,7 @@ import java.sql.ResultSet;
 
 /**
  * @author Glory
- *
+ * @purpose test mysql jdbc
  */
 public class TestMysql {
 
